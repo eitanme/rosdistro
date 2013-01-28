@@ -494,7 +494,7 @@ repositories:
       rostime:
   rosdoc_lite:
     url: git://github.com/ros-gbp/rosdoc_lite-release.git
-    version: 0.2.1-0
+    version: 0.2.2-0
   roslisp:
     url: git://github.com/wg-debs/roslisp-release.git
     version: 1.9.11-0
